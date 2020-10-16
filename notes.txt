@@ -1,0 +1,160 @@
+Data Science:
+
+Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+
+There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
+
+New data scientists need to be curious, judgemental and argumentative.
+
+Why data science is considered the sexiest job in the 20th century, paying high salaries for skilled workers.
+
+The typical work day for a Data Scientist varies depending on what type of project they are working on.
+
+Many algorithms are used to bring out insights from data. 
+
+Accessing algorithms, tools, and data through the Cloud enables Data Scientists to stay up-to-date and collaborate easily.
+
+
+Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices. Data science uses scientific methods, processess, algorithms to extract information from data and then analyse that data to find meaningful results and then visualize that result so others can understand that. In order to make others understand data we have to narrate them in form of story or powerful presentation.
+
+Data science needs knowledge of Statistics, Linear algebra, database, some programming course.
+
+A data scientist is one who use to analyse data, answer someone's questions with data and solves problems with visualizing data to the people. Data scientist work starts with collecting the data that can be in any form like structured, unstructured, audio, video, images etc. Then mining that data to get it in a format that can be studied. Then he analyse that data and finally represent the result in an expressive way either as a story telling or through presentation. 
+
+A data scientist most important skill is curiosity. He must be curious to know about what, should ask why, when, how etc. He should be judgemental so that he can analyse the data to find better findings and then argumentative so that he can be a good story teller to tell his story about analysis to other so that they can easily understand and implement.
+
+Data Science is the demand of future. It is acting like a bridge between bussiness world and the market, helping organizations to understand the market demand.
+
+Foundations of Big Data:
+
+
+Big Data refers to data sets that are so massive, so quickly built and so varied that they defy traditinal analysis methods such as you might perform with a relational database.
+
+
+Ernts and Young offers the following definition: Big data refers to the dynamic, large and disparate volumes of data being create by people, tools and machines. it requires new, innovative and scalable technology to collest, host and analytically process the bast amount of data gathered in ourder to derive relat time business insights that relate to consumers, rist, profit, performance, productivity management and enhanced shareholer value.
+
+
+V's of Big data:
+Velocity: speed at which data accumulates
+Volume - scale of the data or the incerease in the amount of data stored.
+variety - diversity of data 
+veracity - quality and origin of data and its conformity to facts and accuracy.
+Value - 
+
+
+
+what is Hadoop:
+
+
+
+
+How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
+
+How Hadoop and other tools, combined with distributed computing power,  are used to handle the demands of Big Data.
+
+What skills are required to analyse Big Data. 
+Two o'clock, I have a dealing with data class. The class is based on Python notebooks, so we start with the basics of Unix and Linux, just to get the students used to that. We move onto some Python, some regular expressions, a lot of relational databases, some Python Pandas, which is sort of like R for Python, lets you do mathematical and statistical calculations in Python. And then I end up with big data, for which, as you probably know, I'm an evangelist.
+
+
+About the process of Data Mining, and how it produces results.
+
+*****************************************************
+Difference between Deep Learning and Machine Learning:
+
+
+In data science, there are many terms that are used interchangeably, so let's explore the most common ones. The term big data refers to data sets that are so massive, so quickly built, and so varied that they defy traditional analysis methods such as you might perform with a relational database. The concurrent development of enormous compute power in distributed networks and new tools and techniques for data analysis means that organizations now have the power to analyze these vast data sets. A new knowledge and insights are becoming available to everyone. Big data is often described in terms of five V's; velocity, volume, variety, veracity, and value. Data mining is the process of automatically searching and analyzing data, discovering previously unrevealed patterns. It involves preprocessing the data to prepare it and transforming it into an appropriate format. Once this is done, insights and patterns are mined and extracted using various tools and techniques ranging from simple data visualization tools to machine learning and statistical models. Machine learning is a subset of AI that uses computer algorithms to analyze data and make intelligent decisions based on what it is learned without being explicitly programmed. Machine learning algorithms are trained with large sets of data and they learn from examples. They do not follow rules-based algorithms. Machine learning is what enables machines to solve problems on their own and make accurate predictions using the provided data. Deep learning is a specialized subset of machine learning that uses layered neural networks to simulate human decision-making. Deep learning algorithms can label and categorize information and identify patterns. It is what enables AI systems to continuously learn on the job and improve the quality and accuracy of results by determining whether decisions were correct. Artificial neural networks, often referred to simply as neural networks, take inspiration from biological neural networks, although they work quite a bit differently. A neural network in AI is a collection of small computing units called neurons that take incoming data and learn to make decisions over time. Neural networks are often layer-deep and are the reason deep learning algorithms become more efficient as the data sets increase in volume, as opposed to other machine learning algorithms that may plateau as data increases. Now that you have a broad understanding of the differences between some key AI concepts, there is one more differentiation that is important to understand that between Artificial Intelligence and Data Science. Data Science is the process and method for extracting knowledge and insights from large volumes of disparate data. It's an interdisciplinary field involving mathematics, statistical analysis, data visualization, machine learning, and more. It's what makes it possible for us to appropriate information, see patterns, find meaning from large volumes of data and use it to make decisions that drive business. Data Science can use many of the AI techniques to derive insight from data. For example, it could use machine learning algorithms and even deep learning models to extract meaning and draw inferences from data. There is some interaction between AI and Data Science, but one is not a subset of the other. Rather, Data Science is a broad term that encompasses the entire data processing methodology while AI includes everything that allows computers to learn how to solve problems and make intelligent decisions. Both AI and Data Science can involve the use of big data. That is, significantly large volumes of data.
+
+******************************************************
+Most Common Terms used in Data Science:
+
+Big Data:
+Big Data refers to data sets that are so massive, so quickly built and so varied that they defy traditinal analysis methods such as you might perform with a relational database.
+
+Velocity, volume, variety, varacity and value
+
+Data Mining:
+Data mining is the process of automatically searching and analyzing data, discovering previously unrevealed patterns.
+
+It involves Preprocessing of data and transforming into proper format then insights and patterns are mined and extracted using various tools and techniques ranging from simple data visualization tools to machine learning and statistical models.
+
+Machine Learning:
+
+ML is a subset fo AI that uses computed algorithms to analyze data and make intelligent decisions based on what it is learned without being explicitly programmed. 
+
+ML algorithms are trained with large sets of data and they learn from examples.
+
+Deep Learning:
+
+Deep Learning is a specialized subset of ML that uses layered neural networks to simulate human decision making.
+
+
+
+Artificial Neural Networks or NN:
+
+it is a collection of small computing units called neurons that take incoming data and learn to make decisions over time.
+
+
+
+NOTE: Data science is a broad term that encompasses the entire data processing methodology while AI includes everything that allows computers to learn hot to solve problems and make intelligent decision.
+
+Both AI and DS can involve use of big data.
+
+
+
+
+
+
+***********************************************************
+
+It's, I guess, Computer Sciences attempt to mimic real, the neurons, in how our brain actually functions. So 20-23 years ago, a neural network would have some inputs that would come in. They would be fed into different processing nodes that would then do some transformation on them and aggregate them or something, and then maybe go to another level of nodes. And finally there would some output would come out, and I can remember training a neural network to recognize digits, handwritten digits and stuff.
+Play video starting at 1 minute 0 seconds and follow transcript1:00
+So a neural network is trying to use computer, a computer program that will mimic how neurons, how our brains use neurons to process thing, neurons and synapses and building these complex networks that can be trained. So this neural network starts out with some inputs and some outputs, and you keep feeding these inputs in to try to see
+Play video starting at 1 minute 28 seconds and follow transcript1:28
+what kinds of transformations will get to these outputs. And you keep doing this over, and over, and over again in a way that this network should converge. So these input, the transformations will eventually get these outputs. Problem with neural networks was that even though the theory was there and they did work on small problems like recognizing handwritten digits and things like that. They were computationally very intensive and so they went on a favor and I stopped teaching them probably 15 years ago.
+Play video starting at 2 minutes 0 seconds and follow transcript2:00
+And then all of a sudden we started hearing about deep learning, heard the term deep learning. This is another term, when did you first hear it? Four years ago, five years ago? And so, I finally said, what the hell is deep learning? It's really doing all this great stuff, what is it? And I Google, I was like, this is neural networks on steroids. What they did was they just had multiple layers of neural networks, and they use lots, and lots, and lots of computing power to solve them. Just before this interview, I had a young faculty member in the marketing department whose research is partially based on deep learning. And so she needs a computer that has a Graphics Processing Unit in it, because it takes enormous amount of matrix and linear algebra calculations to actually do all of the mathematics that you need in neural networks.
+Play video starting at 3 minutes 2 seconds and follow transcript3:02
+But they've been they are now quite capable. We now have neural networks and deep learning that can recognize speech, can recognize people, you got there, getting your face recognized. I guarantee that NSA has a lot of work going on in neural networks. The university right now, as director of research computing, I have some small set of machines down at our south data center, and I went in there last week and there were just piles, and piles, and piles of cardboard boxes all from Dell with a GPU on the side. Well, the GPU is a Graphics Processing Unit. There's only one application in this University that needs two hundred servers each with Graphics Processing Units in it, and each Graphics Processing Unit, it has like the equivalent of 600 cores of processing. So this is tens of thousands of processing cores that is for deep learning, I guarantee.
+Play video starting at 4 minutes 12 seconds and follow transcript4:12
+Some of the first ones are speech recognition,
+Play video starting at 4 minutes 18 seconds and follow transcript4:18
+who teaches the deep learning class at NYU, and is also the head data scientist at Facebook comes into class with a notebook, and it's a pretty thick notebook. It looks a little odd, because it's like this and it's that thick because it has a couple of Graphics Processing Units in it, and then he will ask the class to start to speak to this thing. And it will train while he's in class, he will train a neural network to recognize speech. So recognizing speech, recognizing people, images, classifying images, almost all of the the traditional tasks that neural nets used to work on in little tiny things. Now, they can do really, really, really large things. It will learn on its own, the difference between a cat and a dog, and different kinds of objects, it doesn't have to be taught. It doesn't, it just learns that's why they call it deep learning, and if you hear, he plays this, if you hear how it recognizes speech and generate speech.
+Play video starting at 5 minutes 32 seconds and follow transcript5:32
+It sounds like a baby who learning to talk.
+Play video starting at 5 minutes 35 seconds and follow transcript5:35
+You can just, you're like really do about
+Play video starting at 5 minutes 41 seconds and follow transcript5:41
+all of a sudden this stupid machine is talking to you and learned how to talk.
+Play video starting at 5 minutes 48 seconds and follow transcript5:48
+That's cool.
+Play video starting at 5 minutes 55 seconds and follow transcript5:55
+I need to learn some linear algebra,
+Play video starting at 5 minutes 59 seconds and follow transcript5:59
+a lot of this a lot of this stuff is based on matrix and linear algebra. So you need to know how to do use linear algebra do transformations. Now, on the other hand, there's now lots of packages out there that will do deep learning and they'll do all the linear algebra for you, but you should have some idea of what is happening underneath. Deep learning, particularly needs really high-powered computational power. So it's not something that you're going to go out and do on your notebook for it. You could play with it. But if you really want to do it, seriously, you have to have some special computational resources. [MUSIC]
+
+
+*****************************************************************
+
+
+
+*****************************************************************
+
+
+*****************************************************************
+
+
+
+*****************************************************************
+
+
+
+*****************************************************************
+
+
+
+
+*****************************************************************
+
+
+
+*****************************************************************
